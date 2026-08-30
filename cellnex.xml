@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noticias de Cellnex</title>
+    <link>https://www.cellnex.com/es-es/sala-de-prensa/noticias/</link>
+    <description>Últimas noticias publicadas por Cellnex</description>
+    <language>es</language>
+    <lastBuildDate>Sun, 30 Aug 2026 09:34:06 +0000</lastBuildDate>
+    <ns0:link href="https://www.cellnex.com/es-es/sala-de-prensa/noticias/" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cellnex refuerza la continuidad de las redes en España y Portugal durante el eclipse solar del 12 de agosto</title>
+      <link>https://www.cellnex.com/es-es/noticias/cellnex-continuidad-redes-eclipse-solar/</link>
+      <description>El eclipse puede generar concentraciones puntuales de población y picos temporales de tráfico móvil en zonas de España y Portugal Cellnex reforzará la supervisión de...</description>
+      <guid isPermaLink="true">https://www.cellnex.com/es-es/noticias/cellnex-continuidad-redes-eclipse-solar/</guid>
+      <category>Events</category>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cellnex impulsa su flujo de caja libre hasta los 301 millones de euros en un sólido primer semestre de 2026 y anuncia una remuneración adicional al accionista de 200 millones de euros en 2026</title>
+      <link>https://www.cellnex.com/es-es/noticias/cellnex-h1-2026-results/</link>
+      <description>Los ingresos consolidados reportados han alcanzado los 1.994 millones de euros en el período. En términos orgánicos, los ingresos han crecido un 5,0% y...</description>
+      <guid isPermaLink="true">https://www.cellnex.com/es-es/noticias/cellnex-h1-2026-results/</guid>
+      <category>Corporate</category>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El Consejo de Administración de Cellnex nombra consejera a Laura Abasolo</title>
+      <link>https://www.cellnex.com/es-es/noticias/cellnex-board-directors-appoints-laura-abasolo-director/</link>
+      <description>Laura Abasolo sustituye a Alexandra Reich Madrid, 30 de julio de 2026.- El Consejo de Administración de Cellnex ha nombrado a Laura Abasolo como...</description>
+      <guid isPermaLink="true">https://www.cellnex.com/es-es/noticias/cellnex-board-directors-appoints-laura-abasolo-director/</guid>
+      <category>Corporate</category>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cellnex y Telefónica amplían a 3.800 emplazamientos su acuerdo para reforzar la resiliencia energética de la red</title>
+      <link>https://www.cellnex.com/es-es/noticias/cellnex-telefonica-emplazamientos-resiliencia-energetica-red/</link>
+      <description>El primer acuerdo de este tipo en España, anunciado en enero de 2026 y ya completado, contemplaba la instalación de baterías en más de 2.000...</description>
+      <guid isPermaLink="true">https://www.cellnex.com/es-es/noticias/cellnex-telefonica-emplazamientos-resiliencia-energetica-red/</guid>
+      <category>España</category>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Resultados del ejercicio fiscal 2025: Cellnex obtiene unos sólidos resultados orgánicos, con un aumento de los ingresos del 5,8%, del EBITDAaL del 7,9% y del flujo de caja libre recurrente apalancado en un 11,5%</title>
+      <link>https://www.cellnex.com/es-es/noticias/resultados-cellnex-2025-punto-inflexion-flujo-caja-remuneracion-accionista/</link>
+      <description>El FCF alcanzado (350 millones de euros) marca un punto de inflexión, y acelera la remuneración a los accionistas mediante la finalización del programa de...</description>
+      <guid isPermaLink="true">https://www.cellnex.com/es-es/noticias/resultados-cellnex-2025-punto-inflexion-flujo-caja-remuneracion-accionista/</guid>
+      <category>Corporate</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
