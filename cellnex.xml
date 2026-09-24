@@ -5,8 +5,15 @@
     <link>https://www.cellnex.com/es-es/sala-de-prensa/noticias/</link>
     <description>Últimas noticias publicadas por Cellnex</description>
     <language>es</language>
-    <lastBuildDate>Wed, 23 Sep 2026 12:06:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 12:10:49 +0000</lastBuildDate>
     <ns0:link href="https://www.cellnex.com/es-es/sala-de-prensa/noticias/" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cellnex refuerza el área de Corporate Affairs con la incorporación de Leonor Altamira (People &amp; Culture) y la separación de las áreas de Comunicación y Asuntos Públicos</title>
+      <link>https://www.cellnex.com/es-es/noticias/cellnex-strengthens-corporate-affairs-division/</link>
+      <description>Leonor Altamira se incorporó el pasado mes de junio como directora de People &amp; Culture, aportando una visión renovada a una función determinante para la...</description>
+      <guid isPermaLink="true">https://www.cellnex.com/es-es/noticias/cellnex-strengthens-corporate-affairs-division/</guid>
+      <category>Corporate</category>
+    </item>
     <item>
       <title>Cellnex refuerza la continuidad de las redes en España y Portugal durante el eclipse solar del 12 de agosto</title>
       <link>https://www.cellnex.com/es-es/noticias/cellnex-continuidad-redes-eclipse-solar/</link>
@@ -38,14 +45,6 @@
       <guid isPermaLink="true">https://www.cellnex.com/es-es/noticias/cellnex-telefonica-emplazamientos-resiliencia-energetica-red/</guid>
       <category>España</category>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Resultados del ejercicio fiscal 2025: Cellnex obtiene unos sólidos resultados orgánicos, con un aumento de los ingresos del 5,8%, del EBITDAaL del 7,9% y del flujo de caja libre recurrente apalancado en un 11,5%</title>
-      <link>https://www.cellnex.com/es-es/noticias/resultados-cellnex-2025-punto-inflexion-flujo-caja-remuneracion-accionista/</link>
-      <description>El FCF alcanzado (350 millones de euros) marca un punto de inflexión, y acelera la remuneración a los accionistas mediante la finalización del programa de...</description>
-      <guid isPermaLink="true">https://www.cellnex.com/es-es/noticias/resultados-cellnex-2025-punto-inflexion-flujo-caja-remuneracion-accionista/</guid>
-      <category>Corporate</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
