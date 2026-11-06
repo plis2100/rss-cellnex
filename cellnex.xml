@@ -5,8 +5,16 @@
     <link>https://www.cellnex.com/es-es/sala-de-prensa/noticias/</link>
     <description>Últimas noticias publicadas por Cellnex</description>
     <language>es</language>
-    <lastBuildDate>Thu, 05 Nov 2026 14:56:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 14:35:44 +0000</lastBuildDate>
     <ns0:link href="https://www.cellnex.com/es-es/sala-de-prensa/noticias/" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El BEI y Cellnex firman un préstamo de €375 millones para impulsar el despliegue de infraestructuras 5G y la transición digital en Europa</title>
+      <link>https://www.cellnex.com/es-es/noticias/eib-cellnex-375-million-loan-5g-infrastructure-europe/</link>
+      <description>El préstamo permitirá a Cellnex movilizar una inversión total de 770 millones de euros en infraestructuras de telecomunicaciones móviles en España, Francia, Italia y Portugal....</description>
+      <guid isPermaLink="true">https://www.cellnex.com/es-es/noticias/eib-cellnex-375-million-loan-5g-infrastructure-europe/</guid>
+      <category>Corporate</category>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cellnex refuerza el área de Corporate Affairs con la incorporación de Leonor Altamira (People &amp; Culture) y la separación de las áreas de Comunicación y Asuntos Públicos</title>
       <link>https://www.cellnex.com/es-es/noticias/cellnex-strengthens-corporate-affairs-division/</link>
@@ -37,14 +45,6 @@
       <guid isPermaLink="true">https://www.cellnex.com/es-es/noticias/cellnex-board-directors-appoints-laura-abasolo-director/</guid>
       <category>Corporate</category>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cellnex y Telefónica amplían a 3.800 emplazamientos su acuerdo para reforzar la resiliencia energética de la red</title>
-      <link>https://www.cellnex.com/es-es/noticias/cellnex-telefonica-emplazamientos-resiliencia-energetica-red/</link>
-      <description>El primer acuerdo de este tipo en España, anunciado en enero de 2026 y ya completado, contemplaba la instalación de baterías en más de 2.000...</description>
-      <guid isPermaLink="true">https://www.cellnex.com/es-es/noticias/cellnex-telefonica-emplazamientos-resiliencia-energetica-red/</guid>
-      <category>España</category>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
